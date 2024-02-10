@@ -20,22 +20,6 @@ This is a fully functional eCommerce website with a beautiful user interface and
   <img width="780" src="preview/demonstration.gif">
 </p>
 
-## Preview
-#### Store
-<p align="left">
-  <img width="780" src="preview/stores.png">
-</p>
-
-#### Cart
-<p align="left">
-  <img width="780" src="preview/cart.png">
-</p>
-
-#### Checkout
-<p align="left">
-  <img width="780" src="preview/check-out.png">
-</p>
-
 ## To Run This Project
 1. clone this project on your local machine,
 ```
